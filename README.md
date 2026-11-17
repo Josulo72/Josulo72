@@ -1,34 +1,31 @@
 # Jorge Rollón
 
-Construyo agentes de IA y automatizaciones que llegan a producción.
+**Ingeniero de IA.** Construyo agentes, sistemas multiagente y aplicaciones con LLMs, de la arquitectura al despliegue. Busco incorporarme a un equipo como AI Engineer.
 
-Cofundador de **[LatidosIA](https://latidosia.com)** — consultoría de automatización con IA y producto SaaS. Antes, 25 años dirigiendo equipos comerciales: por eso empiezo por el problema de negocio y termino en el código, no al revés.
+Antes de programar pasé 25 años en transporte, estructuras metálicas y seguros, casi 20 dirigiendo equipos comerciales. Por eso empiezo por el problema de negocio y termino en el código, no al revés.
 
-**Stack:** Python · FastAPI · React · Three.js / Babylon.js · n8n · Docker · Supabase · Claude API · OpenAI · Gemini
+**Stack:** Python · FastAPI · React · TypeScript · Claude API · OpenAI · Gemini · RAG · LangChain · LangGraph · Three.js / Babylon.js · Supabase · Docker
 
----
+## En qué trabajo
 
-### En qué trabajo
+- **Orquestación multiagente.** Sistemas donde varios agentes (Claude Code, Codex) y personas trabajan sobre el mismo proyecto por fases (implantación, validación, corrección y auditoría), con supervisión y trazas.
+- **Cálculo estructural con IA.** Motor FEM propio para estructuras metálicas (Eurocódigos + CTE), con visor 3D en el navegador e interpretación de planos DXF/IFC.
+- **Voz local.** Clonación y síntesis de voz autoalojada: zero-shot con Orpheus TTS y adaptadores LoRA por perfil, con entrenamiento e inferencia desde panel web.
+- **Calidad del texto generado.** Guía de estilo y linter de 38 reglas para que la IA escriba en español natural.
 
-**Orquestación de agentes**
-Sistemas donde varios agentes (Claude Code, Codex, humanos) trabajan sobre el mismo proyecto por fases, con supervisión y trazas. Incluye un visor en tiempo real para ver qué está haciendo cada agente en cada momento.
+## Código público destacado
 
-**Cálculo estructural con IA — GIVARD**
-Motor FEM propio para estructuras metálicas (Eurocódigos + CTE) con visor 3D en navegador y un agente n8n que interpreta planos DXF/IFC.
+- [cazafacturas](https://github.com/Josulo72/cazafacturas): revisa facturas en PDF sin IA ni internet (NIF, IVA y totales). Batería de pruebas con 23 de 23 aciertos en PDF y los fallos en escaneados documentados.
+- [textoneitor](https://github.com/Josulo72/textoneitor): linter editorial en TypeScript, publicado en npm.
+- [voice-lab](https://github.com/Josulo72/voice-lab): clonación y síntesis de voz local con Orpheus y LoRA.
 
-**Voz local — [LatidosIA-Voice](https://github.com/Josulo72/LatidosIA-Voice)**
-Clonación y síntesis de voz autoalojada: zero-shot con Orpheus TTS más adaptadores LoRA por perfil, con entrenamiento e inferencia desde panel web.
+Parte de mi código es privado; lo enseño a petición.
 
-**Automatización de operaciones**
-Consolas multi-instancia para n8n, pipelines de contenido, integraciones con CRMs y Airtable, bots de WhatsApp.
+## Cómo trabajo
 
----
-
-### Cómo trabajo
-
-Prefiero lo autoalojado a la dependencia de API cuando el coste o la privacidad lo justifican. Cada proyecto sale con su panel de control: si no se puede ver funcionando, no está terminado. La mayoría de mi trabajo es de cliente y vive en repos privados, así que lo que hay aquí público es una muestra.
+Prefiero lo autoalojado cuando el coste o la privacidad lo justifican. Cada proyecto sale con su panel de control: si no se puede ver funcionando, no está terminado.
 
 ---
 
-Ponferrada, León (España) · Remoto
-jrollon@gmail.com · [LinkedIn](https://www.linkedin.com/in/jorgerollon-ia/)
+Ponferrada, León (España) · Abierto a remoto, híbrido o presencial
+[jrollon@gmail.com](mailto:jrollon@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jorgerollon-ia/) · [Portfolio](https://jorge-rollon-ia.jrollon72.chatgpt.site/)
