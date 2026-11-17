@@ -1,6 +1,6 @@
 # Jorge Rollón
 
-**Ingeniero de IA.** Construyo agentes, sistemas multiagente y aplicaciones con LLMs, de la arquitectura al despliegue. Busco incorporarme a un equipo como AI Engineer.
+**Ingeniero de IA.** Construyo agentes, sistemas multiagente y aplicaciones con LLMs, de la arquitectura al despliegue. Desde 2023 construyo sistemas de IA de principio a fin. Busco incorporarme a un equipo como AI Engineer, consultor de IA o ingeniero de soluciones de IA.
 
 Antes de programar pasé 25 años en transporte, estructuras metálicas y seguros, casi 20 dirigiendo equipos comerciales. Por eso empiezo por el problema de negocio y termino en el código, no al revés.
 
@@ -27,5 +27,6 @@ Prefiero lo autoalojado cuando el coste o la privacidad lo justifican. Cada proy
 
 ---
 
-Ponferrada, León (España) · Abierto a remoto, híbrido o presencial
+Ponferrada, León (España) · Abierto a remoto, híbrido o presencial  
+Idiomas: español nativo · inglés con lectura técnica fluida y conversación básica
 [jrollon@gmail.com](mailto:jrollon@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jorgerollon-ia/) · [Portfolio](https://jorge-rollon-ia.jrollon72.chatgpt.site/)
